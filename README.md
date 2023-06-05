@@ -5,4 +5,4 @@ https://cdn.jsdelivr.net/gh/Genopi/genopi-utils@v1.0.0/fix-ur-code/svg/{icon.nam
 **_ version would be different _**
 
 this will be kind of our link
-yes yes yes
+yes yes yes gg boy
